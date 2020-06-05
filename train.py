@@ -1,3 +1,5 @@
+# python train.py -bs=32 -lr=3e-6 -ep=1 -pa=3 --model=bert --task=a --clip --cuda=1
+
 import os
 import numpy as np
 import torch
